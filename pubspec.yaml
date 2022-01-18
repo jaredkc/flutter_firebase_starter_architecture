@@ -22,25 +22,25 @@ dependencies:
     sdk: flutter
   alert_dialogs:
     git:
-      url: https://github.com/bizz84/codewithandrea_flutter_packages
+      url: https://github.com/jaredkc/codewithandrea_flutter_packages
       path: packages/alert_dialogs
   custom_buttons:
     git:
-      url: https://github.com/bizz84/codewithandrea_flutter_packages
+      url: https://github.com/jaredkc/codewithandrea_flutter_packages
       path: packages/custom_buttons
   email_password_sign_in_ui:
     git:
-      url: https://github.com/bizz84/codewithandrea_flutter_packages
+      url: https://github.com/jaredkc/codewithandrea_flutter_packages
       path: packages/email_password_sign_in_ui
   firestore_service:
     git:
-      url: https://github.com/bizz84/codewithandrea_flutter_packages
+      url: https://github.com/jaredkc/codewithandrea_flutter_packages
       path: packages/firestore_service
-  cloud_firestore: ^2.2.2
+  cloud_firestore: ^3.1.6
   cupertino_icons: ^1.0.2
   equatable: ^2.0.3
-  firebase_auth: ^1.4.1
-  firebase_core: ^1.3.0
+  firebase_auth: ^3.3.5
+  firebase_core: ^1.11.0
   flutter_riverpod: ^1.0.0
   flutter_svg: ^1.0.1
   intl: ^0.17.0
