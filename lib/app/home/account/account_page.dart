@@ -8,7 +8,6 @@ import 'package:alert_dialogs/alert_dialogs.dart';
 import 'package:starter_architecture_flutter_firebase/constants/keys.dart';
 import 'package:starter_architecture_flutter_firebase/constants/strings.dart';
 import 'package:flutter/material.dart';
-import 'package:pedantic/pedantic.dart';
 
 class AccountPage extends ConsumerWidget {
   Future<void> _signOut(BuildContext context, FirebaseAuth firebaseAuth) async {
