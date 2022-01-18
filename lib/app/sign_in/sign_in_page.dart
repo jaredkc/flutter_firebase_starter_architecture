@@ -7,7 +7,6 @@ import 'package:starter_architecture_flutter_firebase/app/sign_in/sign_in_view_m
 import 'package:starter_architecture_flutter_firebase/app/sign_in/sign_in_button.dart';
 import 'package:starter_architecture_flutter_firebase/constants/keys.dart';
 import 'package:starter_architecture_flutter_firebase/constants/strings.dart';
-import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
 import 'package:starter_architecture_flutter_firebase/routing/app_router.dart';
 
